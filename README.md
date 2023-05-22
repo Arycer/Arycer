@@ -41,5 +41,5 @@
 | <p>Recreación de la serie de ElRichMC en FabricMC</p> <a href="https://github.com/Arycer/Permadeath" target="_blank">`Repositorio`</a> | <p>Bot de Discord de League of Legends</p> <a href="https://github.com/Arycer/Kindred" target="_blank">`Repositorio`</a> <a href="https://discord.com/oauth2/authorize?client_id=1028066126413959299&permissions=414467803200&scope=bot" target="_blank">`¡Añádeme!`</a> | <p>Estudio de eventos de Minecraft</p> <a href="https://github.com/MialuStudios/" target="_blank">`GitHub`</a> <a href="https://discord.gg/xW8GbsfDt3" target="_blank">`Discord`</a> | <p>Equipo de desarrollo de videojuegos</p> <a href="https://github.com/ParadoxTheory/" target="_blank">`GitHub`</a> |
 <br/>
 
-<h2 align="center">📌 Repositorios fijados</h2>
+<h2 align="center">Repositorios fijados 📌</h2>
 <p align="center">¡Echa un vistazo a mis repositorios fijados!</p>
