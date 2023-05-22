@@ -9,7 +9,7 @@
 * 🧑 `Me llamo`: **Michel**,
 * ⚡ `Tengo`: **18 años**,
 * 🌱 `Estoy aprendiendo`: **Java**,
-* ❤️ `Me gusta`: **Tocar la guitarra!**,
+* ❤️ `Me gusta`: **Tocar la guitarra**,
 * 💻 `Lenguaje favorito`: **Java**  
 
 <hr/>
