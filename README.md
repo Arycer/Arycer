@@ -14,7 +14,7 @@
 
 <hr/>
 
-<h2 align="center">🌱 ¡Mi experiencia!</h2>
+<h2 align="center">¡Mi experiencia! 🌱</h2>
 
 <h4 align="center">💻 Lenguajes de programación (y html)</h4>
 
