@@ -32,14 +32,6 @@
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
-<h4 align="center">Mis proyectos previos 🚀</h2>
-<p align="center">¡Echa un vistazo a mis proyectos destacados!</p>
-  
-| <a href="https://github.com/Arycer/Permadeath" target="_blank">**Permadeath Fabric**</a> | <a href="https://github.com/Arycer/Kindred" target="_blank">**Kindred Bot**</a> |
-| :---: | :---: |
-| <img align='center' src='https://media.discordapp.net/attachments/1109139536413466715/1110214573526614126/Permadeath_Logo.jpg' width="100px"  height='100px'> | <img align='center' width="100px" src='https://media.discordapp.net/attachments/1109139536413466715/1110215807243386982/IMG_0422.jpg' height='100px'> |
-| <p>Recreación de la serie de ElRichMC en FabricMC</p> <a href="https://github.com/Arycer/Permadeath" target="_blank">`Repositorio`</a> | <p>Bot de Discord de League of Legends</p> <a href="https://github.com/Arycer/Kindred" target="_blank">`Repositorio`</a> <a href="https://discord.com/oauth2/authorize?client_id=1028066126413959299&permissions=414467803200&scope=bot" target="_blank">`¡Añádeme!`</a> |
-
 <br/>
 
 <hr/>
