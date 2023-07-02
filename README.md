@@ -1,19 +1,24 @@
 
-<h2 align="center">¡Hola! 👋</h2>
+<h3 align="center">¡Hola! Me llamo Michel</a> 👋</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Arycer&color=red"/> 
 </p>
 
+## 📖 Sobre mí
+
+* <img src="https://cdn.discordapp.com/emojis/1124845167866806312.gif?quality=lossless" width="16"/> Soy desarrollador de mods de Minecraft
+* 🌱 Tengo 18 años
+* 💻 Actualmente estudiando **Desarrollo de Aplicaciones**
+* 🌐 Más información sobre mi en [arycer.me](https://arycer.me/)
+  
 <hr/>
 
-* 🧑 `Me llamo`: **Michel**,
-* ⚡ `Tengo`: **18 años**,
-* 🌱 `Estoy aprendiendo`: **C#**,
-* ❤️ `Me gusta`: **La música! 🎸🎶**,
-* 💻 `Lenguaje favorito`: **Java**  
+## 🔥 Mis estadísticas de GitHub
 
-<hr/>
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=Arycer&theme=dark&hide_border=true&locale=es"/> <img src="https://github-readme-stats.vercel.app/api?username=Arycer&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
+</p>
 
 <h2 align="center">¡Mi experiencia! 🌱</h2>
 
@@ -34,12 +39,10 @@
 
 <br/>
 
-<hr/>
-
 <h2 align="center">Información extra 💭</h2>
-
-| [![Actividad en Discord](https://lanyard.cnrad.dev/api/361147515673903116)](https://discord.com/users/1011216444148678680) | ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Arycer&theme=dark&show_icons=true&hide_border=true&count_private=true) |
-|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+<p align="center">
+    <img src="https://lanyard.cnrad.dev/api/361147515673903116"/>
+</p>
 
 <hr/>
 
