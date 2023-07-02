@@ -19,9 +19,7 @@
 | [![Rachas](https://streak-stats.demolab.com?user=Arycer&theme=dark&hide_border=true&locale=es)](https://discord.com/users/1011216444148678680) | ![Estadísticas](https://github-readme-stats.vercel.app/api?username=Arycer&theme=dark&show_icons=true&hide_border=true&count_private=true) |
 |--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 
-<h2 align="center">¡Mi experiencia! 🌱</h2>
-
-<h4 align="center">Lenguajes de programación 💻</h4>
+## 🌱 Lenguajes con los que he trabajado
 
 <p align="center">
 <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
@@ -38,12 +36,12 @@
 
 <br/>
 
-<h2 align="center">Información extra 💭</h2>
+## 💭 Información extra 💭
 <p align="center">
     <img src="https://lanyard.cnrad.dev/api/361147515673903116"/>
 </p>
 
 <hr/>
 
-<h2 align="center">Repositorios fijados 📌</h2>
+<h2 align="center">📌 Repositorios fijados </h2>
 <p align="center">¡Echa un vistazo a mis repositorios fijados!</p>
