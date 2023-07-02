@@ -16,9 +16,8 @@
 
 ## 🔥 Mis estadísticas de GitHub
 
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=Arycer&theme=dark&hide_border=true&locale=es"/> <img src="https://github-readme-stats.vercel.app/api?username=Arycer&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
-</p>
+| [![Rachas](https://streak-stats.demolab.com?user=Arycer&theme=dark&hide_border=true&locale=es)](https://discord.com/users/1011216444148678680) | ![Estadísticas](https://github-readme-stats.vercel.app/api?username=Arycer&theme=dark&show_icons=true&hide_border=true&count_private=true) |
+|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 
 <h2 align="center">¡Mi experiencia! 🌱</h2>
 
