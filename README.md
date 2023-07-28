@@ -7,7 +7,7 @@
 
 ## 📖 Sobre mí
 
-* <img src="https://cdn.discordapp.com/emojis/1124845167866806312.gif?quality=lossless" width="16"/> Soy desarrollador de mods de Minecraft
+* <img src="https://cdn.discordapp.com/emojis/1124845167866806312.gif" width="16"/> Soy desarrollador de mods de Minecraft
 * 🌱 Tengo 18 años
 * 💻 Actualmente estudiando **Desarrollo de Aplicaciones**
 * 🌐 Más información sobre mi en [arycer.me](https://arycer.me/)
