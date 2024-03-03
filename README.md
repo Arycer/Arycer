@@ -19,6 +19,10 @@
 | [![Rachas](https://streak-stats.demolab.com?user=Arycer&theme=dark&hide_border=true&locale=es)](https://streak-stats.demolab.com?user=Arycer&theme=dark&hide_border=true&locale=es) | ![Arycer's Stats](https://git-hub-stats-liard.vercel.app/api?username=Arycer&theme=dark&show_icons=true&hide_border=true&count_private=true) |
 |--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arycer&api_domain=waka.arycer.me&theme=dark&layout=compact&locale=es&border_color=30363d" alt="Estadísticas Wakapi Semanales">
+</p>
+
 ## 🌱 Lenguajes con los que he trabajado
 
 <p align="center">
