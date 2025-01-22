@@ -16,7 +16,7 @@
 
 ## 🔥 Mis estadísticas de GitHub
 
-| [![Rachas](https://github-readme-streak-stats-three-mu.vercel.app/user=Arycer&theme=dark&hide_border=true&locale=es)]([https://streak-stats.demolab.com](https://github-readme-streak-stats-three-mu.vercel.app/?user=Arycer&theme=dark&hide_border=true&locale=es) | ![Arycer's Stats](https://git-hub-stats-liard.vercel.app/api?username=Arycer&theme=dark&show_icons=true&hide_border=true&count_private=true) |
+| [![Rachas](https://github-readme-streak-stats-three-mu.vercel.app/user=Arycer&theme=dark&hide_border=true&locale=es)](https://github-readme-streak-stats-three-mu.vercel.app/?user=Arycer&theme=dark&hide_border=true&locale=es) | ![Arycer's Stats](https://git-hub-stats-liard.vercel.app/api?username=Arycer&theme=dark&show_icons=true&hide_border=true&count_private=true) |
 |--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 
 ## 🌱 Lenguajes con los que he trabajado
