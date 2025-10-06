@@ -9,15 +9,10 @@
 
 * <img src="https://cdn.discordapp.com/emojis/1124845167866806312.gif" width="16"/> Soy desarrollador de mods de Minecraft
 * 🌱 Tengo 20 años
-* 💻 Actualmente estudiando **Desarrollo de Aplicaciones**
+* 💻 Actualmente estudiando **Desarrollo de Videojuegos e IA**
 * 🌐 Más información sobre mi en [arycer.me](https://arycer.me/)
   
 <hr/>
-
-## 🔥 Mis estadísticas de GitHub
-
-| [![Rachas](https://github-readme-streak-stats-three-mu.vercel.app/user=Arycer&theme=dark&hide_border=true&locale=es)](https://github-readme-streak-stats-three-mu.vercel.app/?user=Arycer&theme=dark&hide_border=true&locale=es) | ![Arycer's Stats](https://git-hub-stats-liard.vercel.app/api?username=Arycer&theme=dark&show_icons=true&hide_border=true&count_private=true) |
-|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 
 ## 🌱 Lenguajes con los que he trabajado
 
