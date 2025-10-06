@@ -9,7 +9,7 @@
 
 * <img src="https://cdn.discordapp.com/emojis/1124845167866806312.gif" width="16"/> Soy desarrollador de mods de Minecraft
 * 🌱 Tengo 20 años
-* 💻 Actualmente estudiando **Desarrollo de Videojuegos e IA**
+* 💻 Actualmente estudiando **Desarrollo de Videojuegos y Realidad Virtual**
 * 🌐 Más información sobre mi en [arycer.me](https://arycer.me/)
   
 <hr/>
